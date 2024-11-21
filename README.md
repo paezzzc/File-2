@@ -10,7 +10,7 @@ Visualization with Final Findings Section:
 There are two visuals that we have generated in this section. One will be the presenation to share our findings. While the other visualization focuses on the results only of the desired questions we wanted to answer. 
 
 Code Section:
-
+This section demonstrates how we analyzed our data to make our assessment of how GDP and NFL statistics can go with each other. 
 
 Business Case Report Section:
 This section includes a research paper that we have written explaing the project with our findings. 
