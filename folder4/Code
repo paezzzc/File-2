@@ -1,1 +1,15 @@
+For question one we used points scored on average in the entire league for the 19 years of stats provided in the NFL data 
+and matched them with the GDP to find a simple positive relationship between an increase in GDP and an increase in the points 
+scored on average per year in the NFL. Once this relationship was established it allowed us to explore the more complicated 
+questions pertaining to particular teams or certain events such as financial crises.
+
+For question two we used Tableau to create a multi-axis chart, allowing us to observe multiple variables. For the Y-axis, 
+the variable record percentage (wins/losses) and year of observations. For the X-axis, we used GDP to measure the change in
+record percentage on average for the league to see if there were any years where financial crises may have impacted team 
+performance.
+
+For question three, we ran a regression in R to measure the performance of all 32 teams using dummy variables.
+We ran regressions with points scored, offense competition percentage, and offense total years gained pass until a significant
+relationship between GDP and total offensive yards gained was established.
+
 
